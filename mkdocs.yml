@@ -5,7 +5,7 @@ site_author: Me
 
 theme:
     name: 'material'
-    logo: assets/meta/favicons.png
+    logo: assets/meta/logo.png
     favicon: assets/meta/favicons.png
     custom_dir: overrides
     font:
