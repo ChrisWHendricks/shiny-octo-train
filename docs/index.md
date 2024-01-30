@@ -5,7 +5,7 @@ cssclasses:
 category: docs
 ---
 
-
+# Welcome To Your Second Brain
 
 
 > [!multi-column]
